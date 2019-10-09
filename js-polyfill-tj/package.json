@@ -1,0 +1,13 @@
+{
+  "name": "js-polyfill-tj",
+  "version": "1.0.0",
+  "description": "这是一个可以更改this指向功能，实现加功能的包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"git@github.com:tianjian804/zk1-tj.git#readme.md"
+}
